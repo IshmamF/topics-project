@@ -1,16 +1,8 @@
-# Topics in Software Engineering
-
-This is a template repository for the topics in software engineering class I teach at CCNY.
-It comes with a pre-configured devcontainer that includes most of the tools you'll need during this semester. 
-If you start with this repository as a template you will have a ready to go development environment that you'll be able to 
-share with your team mates. Additionally, a demo github action workflow has been setup to help you with your first assignment.
-
-# Tools
-The tools that are installed with this devcontainer are:
-
-* act which allows you to run GitHub Actions in the local development environment.
-* terraform which lets you automate infrastructure provisioning
-* aws cli for interacting with AWS environment.
-
-# For Students
-If you are a student in the class you can create a new repository using this template. Once you've created a repository of your own replace the content of this file with the description or you project idea.
+## Project Description
+### Name: Knowledge Vault  
+### Description:
+> In this day and age, we are consuming so much digital content everyday and despite all the information, we're not retaining most of it - even the ones you found to be very helpful. <br/>
+> What if you had a chrome extension that allowed you to save any snippet, article, video, or insight as well as attach any notes you might want to consider. Then have an AI summarize and <br/>
+> categorize the media. Finally we can save this information, and on a web application display it there as mind maps, flash cards, and as a table. We can apply other learning techniques like <br/>
+> space repetition to ensure better retention. 
+### Primary Users: People who want to retail useful information after doom scrolling for hours 
